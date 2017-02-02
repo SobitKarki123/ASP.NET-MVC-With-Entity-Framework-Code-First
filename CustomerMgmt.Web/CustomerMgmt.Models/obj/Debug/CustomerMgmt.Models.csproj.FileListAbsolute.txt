@@ -1,0 +1,5 @@
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Models\bin\Debug\CustomerMgmt.Models.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Models\bin\Debug\CustomerMgmt.Models.pdb
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Models\obj\Debug\CustomerMgmt.Models.csprojResolveAssemblyReference.cache
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Models\obj\Debug\CustomerMgmt.Models.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Models\obj\Debug\CustomerMgmt.Models.pdb

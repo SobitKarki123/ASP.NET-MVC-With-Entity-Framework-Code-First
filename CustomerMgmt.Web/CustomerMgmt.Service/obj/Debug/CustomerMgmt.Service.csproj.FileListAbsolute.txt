@@ -1,0 +1,11 @@
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Service.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Service.pdb
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\obj\Debug\CustomerMgmt.Service.csprojResolveAssemblyReference.cache
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\obj\Debug\CustomerMgmt.Service.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\obj\Debug\CustomerMgmt.Service.pdb
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Data.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Models.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\EntityFramework.dll
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Data.pdb
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\CustomerMgmt.Models.pdb
+c:\users\sk-pc\documents\visual studio 2015\Projects\CustomerMgmt.Web\CustomerMgmt.Service\bin\Debug\EntityFramework.xml
